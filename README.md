@@ -1,2 +1,13 @@
-# github-foundations-practice
-Practice repository for Git and GitHub Foundations certification
+# GitHub Foundations Practice
+
+Practice repository for Git and GitHub Foundations certification.
+
+## Topics
+
+- Repositories
+- Commits
+- Branches
+- Pull Requests
+- Issues
+- Markdown
+- GitHub collaboration
